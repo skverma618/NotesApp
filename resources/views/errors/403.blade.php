@@ -1,4 +1,14 @@
+
+
+
+
+
 <x-app-layout>
-    <h1 class="text-white"> Forbidden Page
-    </h1>
+    <div class="flex items-center justify-center h-screen">
+        <h1 class="text-white text-2xl mt-8">Forbidden Page</h1>
+    </div>
 </x-app-layout>
+
+
+
+
